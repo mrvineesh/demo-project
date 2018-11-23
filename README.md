@@ -1,1 +1,1 @@
-# demo-project
+# New Title for Project: Coin Market
